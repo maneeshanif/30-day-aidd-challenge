@@ -1,0 +1,1 @@
+In shell echo is used for print the text in terminal 
